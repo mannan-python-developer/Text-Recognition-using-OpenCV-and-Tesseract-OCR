@@ -40,6 +40,8 @@ This application allows users to upload images containing text, performs text re
 
 6. **Error Handling**: The application handles various errors gracefully and provides informative messages to the user in case of any issues encountered during execution.
 
+7. ![Project Screenshots](https://github.com/mannan-python-developer/Django-E-Commerce-Website/blob/main/Product%20Details%20Page.png)
+
 ## License:
 
 This project is licensed under the [MIT License](LICENSE).
