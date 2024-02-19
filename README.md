@@ -2,6 +2,8 @@
 
 This application allows users to upload images containing text, performs text recognition using Tesseract OCR, and provides options to manipulate and store the extracted text and associated images.
 
+![Project Screenshots](https://github.com/mannan-python-developer/Text-Recognition-using-OpenCV-and-Tesseract-OCR-/blob/main/Text%20Recognition.png)
+
 ## Features:
 
 - **Image Upload**: Users can upload images in common formats like PNG, JPG, and BMP.
@@ -40,7 +42,6 @@ This application allows users to upload images containing text, performs text re
 
 6. **Error Handling**: The application handles various errors gracefully and provides informative messages to the user in case of any issues encountered during execution.
 
-![Project Screenshots](https://github.com/mannan-python-developer/Text-Recognition-using-OpenCV-and-Tesseract-OCR-/blob/main/Text%20Recognition.png)
 
 ## License:
 
